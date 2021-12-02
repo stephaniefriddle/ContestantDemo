@@ -1,0 +1,27 @@
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.csprojAssemblyReference.cache
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.AssemblyInfoInputs.cache
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.AssemblyInfo.cs
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.exe
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.deps.json
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.runtimeconfig.json
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.runtimeconfig.dev.json
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.dll
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.pdb
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.dll
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.pdb
+C:\Users\Stephanie\OneDrive\Desktop\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.genruntimeconfig.cache
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.exe
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.deps.json
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.runtimeconfig.json
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.runtimeconfig.dev.json
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.dll
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\bin\Debug\netcoreapp3.1\ContestantDemo.pdb
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.csproj.AssemblyReference.cache
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.AssemblyInfoInputs.cache
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.AssemblyInfo.cs
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.dll
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.pdb
+C:\Users\Stephanie\OneDrive\Desktop\School\Winter 2021\CSC242\ContestantDemo\obj\Debug\netcoreapp3.1\ContestantDemo.genruntimeconfig.cache
